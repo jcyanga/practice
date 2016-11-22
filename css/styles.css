@@ -1,0 +1,28 @@
+body {
+	background-color: #000000;
+	font-size: 12px;
+	font-family: Tahoma;
+	color: #ffffff;
+}
+.header {
+	margin: 0px auto;
+	border-radius: 10px;
+	width: 80%;
+}
+.header img {
+	border: 10px double #ffffff;
+	border-radius: 25px;
+	height: 150px; 
+	width: 100%;
+	padding: 4px 1px 1px 1px;
+}
+.content {
+	margin: 0px auto;
+	border: double 5px #ffffff;
+	border-radius: 5px;
+	width: 80%;
+}
+.content-wrapper {
+	margin-left: 5px;
+	font-size: 14px;
+}
